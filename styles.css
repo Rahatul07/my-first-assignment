@@ -97,7 +97,15 @@ ul li:before {
     gap: 200px;
     margin-bottom: 70px;
 }
-
+.plans-title{
+    font-weight: 700;
+    font-size: 30px;
+}
+.plan-description{
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
 .plan-1 {
     text-align: center;
 }
@@ -159,7 +167,7 @@ ul li:before {
     
 }
 .left-footer{
-margin-left: 100px;
+margin-left: 200px;
 padding-top: 120px;
 }
 .left-footer-header{
@@ -186,9 +194,7 @@ padding-bottom: 10px;
     gap: 10px;
 
 }
-.right-footer{
 
-}
 .right-footer-text{
     margin-top: 120px;
     color: white;
